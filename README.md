@@ -65,6 +65,24 @@ The trained model predicts the bearing condition and outputs clear status labels
 	•	Outer Race Fault Detected
 	•	Ball Fault Detected
 
+## How to run:
+
+1. Run requirements.txt in terminal
+2. run app.py inside deployment folder
+
+## Key Learning Outcomes
+1. Signal processing basics
+2. Feature extraction from vibration data
+3. Supervised machine learning for classification
+4. Model evaluation techniques
+5. Industrial predictive maintenance workflow
+
+## Future Improvements
+1. Deep learning-based fault detection
+2. Real-time streaming data integration
+3. Deployment using Flask or FastAPI
+4. Dashboard visualization
+
 Feature extraction techniques are applied to convert raw signals into meaningful numerical inputs for machine learning models.
 
 The folder bearing_dataset contains the whole bearing dataset which i have downloaded from kaggle and files from jupyter notebook on which i have performed Feature engineering , PCA and Model Training. You can access these .ipynp files using jupyter notebook.
