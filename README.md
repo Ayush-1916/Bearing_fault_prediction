@@ -89,4 +89,10 @@ The folder bearing_dataset contains the whole bearing dataset which i have downl
 
 Another folder named Deployment contains the python files which i have used to do deployment using flask.
 
+<img src="bearing1.png" width="400" /> 
+
+<img src="bearing2.png" width="300" /> 
+
+<img src="bearing3.png" width="400" />
+
 
